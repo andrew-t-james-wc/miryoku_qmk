@@ -6,3 +6,4 @@
 #pragma once
 
 #define MASTER_LEFT
+#define USB_VBUS_PIN GP19
